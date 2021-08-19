@@ -1,0 +1,35 @@
+{
+  "name": "practicalproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrimpongAlbertAttakora/JS-VUEpractical.git"
+  },
+  "keywords": [
+    "Kwabena_2310"
+  ],
+  "author": "Albert_Attakora_Frimpong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrimpongAlbertAttakora/JS-VUEpractical/issues"
+  },
+  "homepage": "https://github.com/FrimpongAlbertAttakora/JS-VUEpractical#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
